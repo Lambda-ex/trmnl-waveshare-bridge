@@ -13,7 +13,7 @@ This project depends on the **latest version** of the
 During early development, the dependency is pulled directly from the GitHub
 repository to ensure compatibility with new displays and rendering changes.
 
-For now, please see instructions on how to install the library.
+For now, please see refer to that repository on instructions on how to install the library.
 
 ## Credits
 
