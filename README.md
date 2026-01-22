@@ -1,9 +1,14 @@
 # trmnl-waveshare-bridge
-**Version:** 0.0.1  
-**Status:** Early Development
+**Version:** 0.0.2  
+**Status:** Early Development (do not use)
 
 An unofficial TRMNL compatibility project for Waveshare e-paper displays.  
 Built on a [custom Waveshare EPD image library](https://github.com/Lambda-ex/waveshare-epd-image), this project fetches the current TRMNL screen and renders it on Raspberry Pi–connected Waveshare panels. Its goal is to make all Waveshare EPD devices usable with TRMNL, even when display dimensions or rendering characteristics differ.
+
+This works by updating the show_img script run by go to run a separate python library to display the image.
+
+## Important Notice
+Everything is "hacked together" right now, so it is very unfriendly and not ready for public implementation. Please until future updates **do not use**.
 
 ## Dependency note
 
