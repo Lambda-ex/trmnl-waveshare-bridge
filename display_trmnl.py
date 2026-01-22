@@ -44,6 +44,6 @@ display_image(
     image_path,
     mode="fit",
     model="epd5in65f",
-    rotation=180,
+    rotation=270,
     refresh=doRefresh
 )
